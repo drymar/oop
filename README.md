@@ -1,4 +1,0 @@
-dima
-====
-
-functions
