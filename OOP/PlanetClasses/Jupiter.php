@@ -21,6 +21,6 @@ class Jupiter extends Planet implements JupiterInterface
         echo 'Name:' .$this->name. '<br>';
         echo 'Diametr:'. $this->diametr. '<br>';
         echo 'Number:' .$this->number. '<br>';
-        echo 'Has satellites:' .$this->satellites. '<br><br>';
+        echo 'Has satellites:' .$this->satellites. '<br><hr>';
     }
 }
